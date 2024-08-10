@@ -1,0 +1,16 @@
+package checkboxes;
+
+/**
+ * All products families have the same varieties (MacOS/Windows).
+ *
+ * This is another variant of a checkbox.
+ */
+public class WindowCheckbox implements Checkbox {
+
+	@Override
+	public void paint() {
+		// TODO Auto-generated method stub
+		System.out.println("You have created WindowsCheckbox.");
+	}
+
+}

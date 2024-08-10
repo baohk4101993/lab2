@@ -1,0 +1,9 @@
+package app;
+
+/**
+ * Factory users don't care which concrete factory they use since they work with
+ * factories and products through abstract interfaces.
+ */
+public class Application {
+
+}

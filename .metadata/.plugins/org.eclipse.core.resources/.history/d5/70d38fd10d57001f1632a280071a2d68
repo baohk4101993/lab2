@@ -1,0 +1,5 @@
+package remotes;
+
+public class BasicRemote implements Remote {
+
+}

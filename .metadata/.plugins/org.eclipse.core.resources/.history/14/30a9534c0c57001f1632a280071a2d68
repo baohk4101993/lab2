@@ -1,0 +1,11 @@
+package builders;
+
+public class CarBuilder implements Builder {
+
+	@Override
+	public void setSeats(int seats) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
